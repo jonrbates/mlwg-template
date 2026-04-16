@@ -1,8 +1,7 @@
 *.egg-info/
 .pytest_cache/
 __pycache__/
-.venv
-.vscode
-.ruff_cache
+.venv/
+.vscode/
 runs/
 notes/
